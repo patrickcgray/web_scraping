@@ -1,5 +1,7 @@
 '''
-Created on Feb 6, 2013
+Created on Feb 06, 2013
+
+Reopened on Ma 31, 2015
 
 @author: clifgray
 '''
